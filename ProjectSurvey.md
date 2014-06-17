@@ -8,7 +8,7 @@ Date: 6/14/14<br>
 
 ###Bluedriving
 <p>
-Recently, I have been very interested in Bluetooth technology, and I have spent a fair amount of time searching for open source projects.  More specifically, I was looking for a project that was programmed in python.  In browsing through GitHub, I came across the (*Bluedriving* <https://github.com/verovaleros/bluedriving>)repository.  If you could not have guessed by the name, *Bluedriving* is a Bluetooth wardriving utility.  The Wikipedia definition of wardriving is "the act of searching for Wi-Fi wireless networks by a person in a moving vehicle, using a portable computer, smart phone or personal digital assistant (PDA)." Essentially, wardriving is a *hacking* term used for reconnaissance. Since security is a major passion of mine, this project got me excited.
+Recently, I have been very interested in Bluetooth technology, and I have spent a fair amount of time searching for open source projects.  More specifically, I was looking for a project that was programmed in python.  In browsing through GitHub, I came across the [*Bluedriving* (https://github.com/verovaleros/bluedriving)].  If you could not have guessed by the name, *Bluedriving* is a Bluetooth wardriving utility.  The Wikipedia definition of wardriving is "the act of searching for Wi-Fi wireless networks by a person in a moving vehicle, using a portable computer, smart phone or personal digital assistant (PDA)." Essentially, wardriving is a *hacking* term used for reconnaissance. Since security is a major passion of mine, this project got me excited.
 </p>
 
 <p>
