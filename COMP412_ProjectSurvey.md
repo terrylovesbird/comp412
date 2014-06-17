@@ -1,9 +1,9 @@
 
 #Week 2: Survey Existing Open Source Projects
 
-Author: Brian Liceaga
-Course: COMP 412
-Date: 6/14/14
+Author: Brian Liceaga<br>
+Course: COMP 412<br>
+Date: 6/14/14<br>
 <br><br>
 
 ###Bluedriving
