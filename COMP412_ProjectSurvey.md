@@ -8,7 +8,7 @@ Date: 6/14/14<br>
 
 ###Bluedriving
 <p>
-Recently, I have been very interested in Bluetooth technology, and I have spent a fair amount of time searching for open source projects.  More specifically, I was looking for a project that was programmed in python.  In browsing through GitHub, I came across the [*Bluedriving*](https://github.com/verovaleros/bluedriving) repository.  If you could not have guessed by the name, *Bluedriving* is a Bluetooth wardriving utility.  The Wikipedia definition of wardriving is "the act of searching for Wi-Fi wireless networks by a person in a moving vehicle, using a portable computer, smart phone or personal digital assistant (PDA)." Essentially, wardriving is a *hacking* term used for reconnaissance. Since security is a major passion of mine, this project got me excited.
+Recently, I have been very interested in Bluetooth technology, and I have spent a fair amount of time searching for open source projects.  More specifically, I was looking for a project that was programmed in python.  In browsing through GitHub, I came across the [Bluedriving](https://github.com/verovaleros/bluedriving) repository.  If you could not have guessed by the name, Bluedriving is a Bluetooth wardriving utility.  The Wikipedia definition of wardriving is "the act of searching for Wi-Fi wireless networks by a person in a moving vehicle, using a portable computer, smart phone or personal digital assistant (PDA)." Essentially, wardriving is a *hacking* term used for reconnaissance. Since security is a major passion of mine, this project got me excited.
 </p>
 
 <p>
@@ -28,7 +28,7 @@ Based on the number of stars and sufficient documentation, the user community ha
 </p>
 <br>
 
-### Badges ###
+###Badges 
 
 <p>
 After watching the "What Is A Badge?" video on the FOSSAL YouTube channel, I was inspired to look further into the Mozilla Open Badges project.  The Mozilla community has always done a fine job of producing and maintaining effective open source products such as the widely successfully web browser Firefox, and Open Badges is no exception. Open Badges takes the concept of a digital badge one step further by allowing people to verify their skills, interests, and achievements. This happens through credible organizations which attach that information to the badge image file, hard-coding the metadata for future access and review. Badges can be displayed wherever earners want them on the web, and share them for employment, education or lifelong learning. Upon searching the term *open badges*, I was presented with a dedicated project website, Mozilla wiki page, and social media accounts of the project.  This demonstrations the professionalism, formality, and maturity that most FOSS projects lack. </p>
@@ -47,7 +47,7 @@ Community support for this project can be seen by the professional demeanor.  Be
 
 
 
-#### Coder (for Raspberry Pi) ####
+####Coder (for Raspberry Pi)
 
 <p>
 [Coder] (https://googlecreativelab.github.io/coder/) is a open source project by Google that makes web development easy on a Raspberry Pi.  Coder turns your Raspberry Pi into a mini web server that allows for the creation of web content using HTML, CSS and JavaScript via a browser-based IDE.  This out of the box solution is perfect for a classroom environment by encompassing all the elements of web development without the need for large physical servers and the complexity of IDEs. Eliminating the clutter, you are left with a low energy, low cost (RPi is about $35), and highly effective educational solution.    
